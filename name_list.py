@@ -3,7 +3,7 @@ names = ["Hadi","Nasher","morteza-abedi", "Hamidhkoeini",
          "Hafez Shabrang", "Sara H. Nikfar","Aysan Chehreh",
          "danial abyazi","Maedeh Azizi Sotudeh","hadi rahimi",
          "asal safavi","Amir mahdi zhalefar","ahmad madady", "Kiana", "Milad Mohammadi",
-         "Hossein Rezaei", "Fatemeh Ghaffari","Afsaneh Gheisariyeh"]
+         "Hossein Rezaei", "Fatemeh Ghaffari", "Parisa Shirali", "paria haji abolfath", "Afsaneh Gheisariyeh"]
 
 for n in names:
     print(n)
