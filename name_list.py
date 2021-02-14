@@ -6,7 +6,7 @@ names = ["Arya Azimi", "Matin Ebrahimkhani","Nasher","morteza-abedi", "Hamidhkoe
          "Hossein Rezaei", "Fatemeh Ghaffari", "Parisa Shirali", "paria haji abolfath",
          "Afsaneh Gheisariyeh", "Mohammad Reza Haghighat", "Farideh","Hadi"," Hossein Sadeghi", "Solmaz Mohammadi", "Masih Hajsaeedi", "Ali Derogar","Fateme Sohrabi", "Amir Khalili" 
          "Mehrzad Tareh","Sepide","Hadi Nasiri","Shayan Majidifar", "Arash Bahmani", "Fatemeh Mohammadi","Ali Rezapour", "Amirhossein Mafi","Atefeh Malek","Maedeh Saadati", "Alireza KamkarRouhani","Mohammad Hosseinali","Erfan Bakhtiari",
-         "Maryam Lotfi"]
+         "Maryam Lotfi","Mahdi Miyanji"]
 
 for n in names:
     print(n)
